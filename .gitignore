@@ -1,0 +1,4 @@
+.venv
+images
+keras_module.h5
+lablels.txt
